@@ -179,8 +179,8 @@ namespace Ejercicio_1
                         op = 0;
                         break;
                 }
-                if (op != 0)
-                    op = MostrarPantallaSolicitarOpcionMenu();
+
+                op = MostrarPantallaSolicitarOpcionMenu();
             }
         }
     }
